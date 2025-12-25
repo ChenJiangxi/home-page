@@ -6,9 +6,9 @@ export const PROFILE: Profile = {
   title: "Ph.D. Candidate (3rd Year)",
   affiliation: "Shanghai Jiao Tong University (SJTU)",
   email: "chen731925@sjtu.edu.cn",
-  avatarUrl: "/assets/avatar.jpg", // Ensure this path matches your folder structure exactly
+  avatarUrl: "assets/avatar.jpg", // Ensure this path matches your folder structure exactly
   bio: `
-    I am a Ph.D. candidate (Direct Track) in the Department of Industrial Engineering and Management at Shanghai Jiao Tong University (SJTU). 
+    I am a Ph.D. candidate in the Department of Industrial Engineering and Management at Shanghai Jiao Tong University (SJTU). 
     I received my Bachelor's degree from SJTU in 2023, majoring in Industrial Engineering with a minor in Economics.
     My research interests lie in Deep Reinforcement Learning, Intelligent Manufacturing, and Graph Neural Networks, 
     with a specific focus on maintenance optimization and scheduling in complex systems.
