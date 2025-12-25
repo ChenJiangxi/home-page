@@ -121,7 +121,7 @@ Error generating stack: `+a.message+`
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
- */const Bx=[["path",{d:"M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z",key:"pff0z6"}]],Lx=Ze("twitter",Bx),Me={name:"Jiangxi Chen",chineseName:"陈姜希",title:"Ph.D. Candidate (3rd Year)",affiliation:"Shanghai Jiao Tong University (SJTU)",email:"chen731925@sjtu.edu.cn",avatarUrl:"/assets/avatar.jpg",bio:`
+ */const Bx=[["path",{d:"M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z",key:"pff0z6"}]],Lx=Ze("twitter",Bx),Me={name:"Jiangxi Chen",chineseName:"陈姜希",title:"Ph.D. Candidate (3rd Year)",affiliation:"Shanghai Jiao Tong University (SJTU)",email:"chen731925@sjtu.edu.cn",avatarUrl:"assets/avatar.jpg",bio:`
     I am a Ph.D. candidate (Direct Track) in the Department of Industrial Engineering and Management at Shanghai Jiao Tong University (SJTU). 
     I received my Bachelor's degree from SJTU in 2023, majoring in Industrial Engineering with a minor in Economics.
     My research interests lie in Deep Reinforcement Learning, Intelligent Manufacturing, and Graph Neural Networks, 
